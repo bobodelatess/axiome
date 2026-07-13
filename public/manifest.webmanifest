@@ -1,0 +1,19 @@
+{
+  "name": "AXIOME — Cockpit PSP",
+  "short_name": "AXIOME",
+  "description": "Pilotage académique adaptatif pour la L2 Parcours Spécial Physique.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0d12",
+  "theme_color": "#0a0d12",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "axiome-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

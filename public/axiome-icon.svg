@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AXIOME">
+  <rect width="512" height="512" rx="118" fill="#12171e"/>
+  <path d="M256 91c-91 0-165 74-165 165s74 165 165 165 165-74 165-165" fill="none" stroke="#b6f36d" stroke-width="30" stroke-linecap="round"/>
+  <path d="M163 318 256 154l93 164" fill="none" stroke="#f2f5f7" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="18" fill="#b6f36d"/>
+</svg>

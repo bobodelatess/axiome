@@ -2,7 +2,9 @@
 
 AXIOME est un système local de pilotage académique conçu pour une L2 Parcours Spécial Physique à l’Université Toulouse III. Son but n’est pas d’afficher davantage de tâches : il choisit le travail qui a le meilleur rendement attendu, impose une production avant la correction, puis recalcule le plan à partir de la performance observée.
 
-![Tableau de bord AXIOME](artifacts/axiome-desktop.png)
+<p align="center">
+  <img src="public/axiome-icon.svg" width="112" alt="Logo AXIOME" />
+</p>
 
 ## Ce qui est personnalisé
 
